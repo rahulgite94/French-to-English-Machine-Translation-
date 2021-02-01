@@ -1,0 +1,2 @@
+# French-to-English-Machine-Translation-
+Objectives:   To compare the performance of different word embedding methods: learned and pre-trained. To analyze the impact of Attention on an encoder-decoder network. To develop a machine translation scoring method that evaluates both syntactic and semantic similarities between sentences.   Hypotheses:   The addition of Attention to a encoder-decoder network will improve translation performance.   The use of pre-trained word embeddings will decrease training time and improve translation performance. 
